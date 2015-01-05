@@ -116,8 +116,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000648_0000_0FA9A0786E1827D8"/>
-            <pb facs="tcp:000648_0001_0FA9A0792C524488"/>
+            <pb facs="unknown:000648_0000_0FA9A0786E1827D8"/>
+            <pb facs="unknown:000648_0001_0FA9A0792C524488"/>
             <p>AN ACT Passed by the Great and General Court or Assembly of Their Majesties Pro<g ref="char:EOLhyphen"/>vince of the Massachusets-Bay, in New-England.</p>
             <p>Begun at <hi>Boston</hi> the Eighth Day of <hi>June,</hi> 1692, And Con<g ref="char:EOLhyphen"/>tinued by several Adjournments unto <hi>Thursday</hi> the Second of <hi>March</hi> following, being the Fourth Sessions.</p>
             <p>Anno Regni, Gulielmi, et Mariae, Regis et Reginae, Angliae, Scotiae, Franciae, et Hiberniae Quinto.</p>
@@ -126,7 +126,7 @@
       </front>
       <body>
          <div type="act">
-            <pb n="1" facs="tcp:000648_0002_0FA9A07A5F2C58C0"/>
+            <pb n="1" facs="unknown:000648_0002_0FA9A07A5F2C58C0"/>
             <head>An Act, For the Proportioning and Setling of the Tax or Assessment of Thirty Thousand Pounds Granted unto Their Majesties.</head>
             <p>WHEREAS the Commissioners of the Respective Counties, in pursuance of the Act Entituled An Act, <hi>For Regulating the former Assessment, and for Granting an Additional Supply of Money,</hi> made at the Second Sessions of this Court have met in <hi>Bo<g ref="char:EOLhyphen"/>ston</hi> as a Committee, and taken an account of the Sum Total of the Lists laid before them of each Town respectively, and made a further Addition to the several Sums of each List, as near as they judged pro<g ref="char:EOLhyphen"/>portionably (including the Sum already Returned unto the Treasurer, for which his Warrants are gone forth) towards making up the Sum of Thirty Thousand Pounds Granted upon the whole Province.</p>
             <p>Upon Consideration had of the Return made by the said Commit<g ref="char:EOLhyphen"/>tee.</p>
@@ -141,7 +141,7 @@
                <gap reason="illegible: indecipherable" extent="1 letter">
                   <desc>•</desc>
                </gap>ext Sessions, for an Ease
-<pb n="2" facs="tcp:000648_0003_0FA9A07C32482D58"/>
+<pb n="2" facs="unknown:000648_0003_0FA9A07C32482D58"/>
 and Abatement of the Sum proposed by the Committee, and set upon said Towns respectively, they Returning a true List in the mean time, and making it appear that they have been over-done.</p>
             <p>
                <hi>And it is further Enacted by the Authority aforesaid</hi>
